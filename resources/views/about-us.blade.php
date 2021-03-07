@@ -1,0 +1,1 @@
+<h2>Untuk Melihat About Us<br><a href='<?php echo $url ?>'><button>KLIK!</button></a></h2>
